@@ -1,0 +1,19 @@
+.pink-background {
+    background-color: lightcoral;
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+.increase-font{
+    font-size: 24px;
+}
+
+#div-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#div-four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
